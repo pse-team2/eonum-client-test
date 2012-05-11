@@ -1,7 +1,7 @@
 # Client Test
 
 ## Robotium
-The tests use [robotium](http://code.google.com/p/robotium/) and are run fully automated.
+The tests use [robotium](http://code.google.com/p/robotium/) and run fully automated.
 With robotium, it's quite easy to simulate user input and check the resulting layouts, Activities and or control elements with assertions.
 It is built on top of JUnit and runs as Android JUnit Tests.
 
