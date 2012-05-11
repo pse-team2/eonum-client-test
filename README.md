@@ -8,7 +8,7 @@ It is built on top of JUnit and runs as Android JUnit Tests.
 ## Run
 To be able to run the tests, add the original project as project dependency as follows:
 
-![Add as 'health' as *required project*](./eonum-client-test/blob/master/required_project.png "Eclipse configuration")
+![Add as 'health' as *required project*](./eonum-client-test/raw/master/required_project.png "Eclipse configuration")
 
 It's recommended to execute the tests on an actual device rather than on a virtual device emulator, because of the faster execution.
 
