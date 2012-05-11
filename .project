@@ -3,7 +3,7 @@
 	<name>HealthTest</name>
 	<comment></comment>
 	<projects>
-		<project>NotesList</project>
+		<project>health</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
