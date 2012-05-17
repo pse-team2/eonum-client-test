@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>HealthTest</name>
+	<name>eonum-client-test</name>
 	<comment></comment>
 	<projects>
-		<project>health</project>
+		<project>eonum-client</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
